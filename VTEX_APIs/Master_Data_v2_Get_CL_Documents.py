@@ -1,4 +1,4 @@
-#This script will help your business to track all the customer data that your VTEX platform storage, in this case we are going to extract some customers information
+#This script will help your business to track all the customer data that your VTEX platform store, in this case we are going to extract some customers information
 #This is the Cloud Function that you are going to execute every X hours
 
 #All the libraries that we are going to use
