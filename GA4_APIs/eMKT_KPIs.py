@@ -1,7 +1,7 @@
 #This script will automate your ETL process for any report of GA4 that you want to replicate to any BI tool such as Power BI, Data Studio due to their flexibility.
 #In this case we are going to extract the main KPIs for an e-Marketing team.
 #Due to the GA4 API is new, we are truncating all the data with a specific date range. 
-#In case you manage big datasets, I recommend you to "WRITE_APPEND" your outputs and then in BQ clean your data with an over_partition. Check my repository called "my_BI_reporting_codes" to know how to do this.
+#In case you manage big datasets, I recommend you to "WRITE_APPEND" your outputs with a dynamic range of dates and then in BQ clean your data with an over_partition. Check my repository called "my_BI_reporting_codes" to know how to do this.
 #Pay attention to the incompatibility of dimensions and metrics.
 #This is the Cloud Function that you are going to execute every X hours 
 
