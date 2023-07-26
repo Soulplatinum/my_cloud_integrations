@@ -10,4 +10,6 @@ List of Integrations:
 
 ✔️ GA4 API - Get main KPIs for e-Marketing reports (Sessions, Revenue, Orders, adImpressions, adClicks, adCost, CR, CTR, CPS, CPA, ROAS)
 
+✔️ Google Cloud Storage API - Load data from an excel file through GCP's buckets
+
 🏁 Microsoft SQL Server Integration - Get any database that is in a server. Still learning how to do this ! 
